@@ -1,0 +1,15 @@
+{
+  "name": "johndoe",
+  "version": "1.0.0",
+  "description": "JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
